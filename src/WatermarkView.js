@@ -3,7 +3,7 @@
  * @Description:
  * @LastEditors: yinyongqian
  * @Date: 2019-03-20 10:25:35
- * @LastEditTime: 2019-03-20 12:08:02
+ * @LastEditTime: 2019-03-20 12:37:14
  */
 
 import React, { Component } from "react";
@@ -73,9 +73,7 @@ class WatermarkView extends React.Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    flex: 1
   },
   watermarkContainer: {
     backgroundColor: 'rgba(0,0,0,0)',
