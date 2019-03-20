@@ -1,0 +1,44 @@
+{
+  "name": "react-native-watermark-component",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.1",
+    "@babel/core": "^7.4.0",
+    "@babel/runtime": "^7.4.0",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "main": "src/",
+  "files": [
+    "src/"
+  ],
+  "description": "react-native项目中的水印组件，支持前置水印和后置水印",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongqianvip/react-native-watermark-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "watermark"
+  ],
+  "author": "yongqianvip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yongqianvip/react-native-watermark-view/issues"
+  },
+  "homepage": "https://github.com/yongqianvip/react-native-watermark-view#readme"
+
+}
