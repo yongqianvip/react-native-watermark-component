@@ -27,6 +27,9 @@ react-native项目中的水印插件（文字水印）
         rotateZ={rotateZ}
         watermarkTextStyle={ watermarkTextStyle }
       >
+        <View>
+	        <Text>朋友 · 爱</Text>
+        </View>
         {your_component}
         {/* 这里放置你自己的组件 */}
       </WatermarkView>
