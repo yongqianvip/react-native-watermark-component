@@ -46,8 +46,8 @@ react-native项目中的水印插件（文字水印）
 |rotateZ|number|-45|水印旋转角度|
 
 
-![](./images/background.png)
-![](./images/foreground.png)
-![](./images/source.png)
+![后置水印](./images/background.png)
+![前置水印](./images/foreground.png)
+![结构分析](./images/source.png)
 
 
